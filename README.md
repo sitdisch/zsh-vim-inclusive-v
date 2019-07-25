@@ -5,11 +5,11 @@
 - [Example](#example)
 - [Explanation](#explanation)
 - [Installation](#installation)
-	- [antigen](#antigen)
-	- [manually](#manually)
-	- [zgen](#zgen)
-	- [zplug](#zplug)
-	- [zplugin](#zplugin)
+  - [antigen](#antigen)
+  - [manually](#manually)
+  - [zgen](#zgen)
+  - [zplug](#zplug)
+  - [zplugin](#zplugin)
 - [About the Author](#about-the-author)
 <p></p>
 
@@ -25,9 +25,9 @@
 This is a zsh plugin. It enables Vim's inclusive **v** in the terminal for backward operations. That means, if you are in the vi-command-mode (vicmd) of the shell and you press **v** after an operator and before a motion command, then you force the operator to include the current char under the cursor in the backward operation too.
 
 * general key-sequence-structure: `{operator}v{movement}`
-	* {operator}: `d, y, c,...`
-	* {movement}: `b, B, h, ^, 0, |, ge, gE, F, T`
-		* consider: other movements are not included currently
+  * {operator}: `d, y, c,...`
+  * {movement}: `b, B, h, ^, 0, |, ge, gE, F, T`
+    * consider: other movements are not included currently
 <p></p>
 
 Other features of the inclusive/exclusive **v** are not enabled in this widget. Hope you enjoy it anyway.
@@ -76,8 +76,8 @@ P.s. the visual-mode with **v** is still working.
 
 ## About the Author
 
-|Author		|Source							|
+|Author   |Source             |
 |---------------|-------------------------------------------------------|
-|sitdisch	| <https://github.com/sitdisch/zsh-vim-inclusive-v> 	|
+|sitdisch | <https://github.com/sitdisch/zsh-vim-inclusive-v>   |
 
 Copyright (c) 2019 sitdisch
