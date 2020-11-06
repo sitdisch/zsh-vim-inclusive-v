@@ -1,10 +1,10 @@
 # 
 # VIM'S INCLUSIVE V
 # 
-# Author: sitdisch <sitdisch@gmx.de>
+# Author: sitdisch
 # Source: https://github.com/sitdisch/zsh-vim-inclusive-v
-# 
-# Copyright (c) 2019 sitdisch
+# License: MIT
+# Copyright (c) 2020 sitdisch
 
 # 
 # EXPLANATION: 
