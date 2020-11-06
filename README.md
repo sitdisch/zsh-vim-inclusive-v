@@ -15,7 +15,7 @@
 
 ## Example
 
-![Animated demonstration](https://raw.githubusercontent.com/sitdisch/zsh-vim-inclusive-v/gh-pages/assets/images/vim_inclusive_v.gif)
+![Animated demonstration](https://raw.githubusercontent.com/sitdisch/cloud/master/gifs/vim_inclusive_v.gif)
 1. shows the difference between the `db` and `dvb` key-sequence
 2. shows the difference between the `dFg` and `dvFg` key-sequence
 <p></p>
